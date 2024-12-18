@@ -1,0 +1,82 @@
+{
+  "sitemap": [
+    {
+      "loc": "https://quantamquill.github.io/Quantam-Quill/",
+      "lastmod": "2024-12-18",
+      "changefreq": "daily",
+      "priority": 1.0
+    },
+    {
+      "loc": "https://quantamquill.github.io/Quantam/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.8
+    },
+    {
+      "loc": "https://quantamquill.github.io/BasicEdit/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.8
+    },
+    {
+      "loc": "https://quantamquill.github.io/QuantamQuill/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.9
+    },
+    {
+      "loc": "https://quantamquill.github.io/Contact/",
+      "lastmod": "2024-12-18",
+      "changefreq": "weekly",
+      "priority": 0.7
+    },
+    {
+      "loc": "https://quantamquill.github.io/Support/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.8
+    },
+    {
+      "loc": "https://quantamquill.github.io/FAQ/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "loc": "https://quantamquill.github.io/Terminal/",
+      "lastmod": "2024-12-18",
+      "changefreq": "yearly",
+      "priority": 0.5
+    },
+    {
+      "loc": "https://quantamquill.github.io/Designs-examples/",
+      "lastmod": "2024-12-18",
+      "changefreq": "yearly",
+      "priority": 0.5
+    },
+    {
+      "loc": "https://quantamquill.github.io/Notification/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "loc": "https://quantamquill.github.io/Quantam-Technology/",
+      "lastmod": "2024-12-18",
+      "changefreq": "yearly",
+      "priority": 0.6
+    },
+    {
+      "loc": "https://quantamquill.github.io/Virus-detector/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.8
+    },
+    {
+      "loc": "https://quantamquill.github.io/Quantam-Offer/",
+      "lastmod": "2024-12-18",
+      "changefreq": "monthly",
+      "priority": 0.7
+    }
+  ]
+}
